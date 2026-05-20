@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RestaurantReservation.API/RestaurantReservation.API.csproj" />
+  <Project Path="RestaurantReservation.DataAccess/RestaurantReservation.DataAccess.csproj" />
+  <Project Path="RestaurantReservation.Domain/RestaurantReservation.Domain.csproj" />
+</Solution>
